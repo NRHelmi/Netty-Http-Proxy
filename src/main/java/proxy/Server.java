@@ -12,7 +12,7 @@ import io.netty.handler.logging.LoggingHandler;
  * Hello world!
  *
  */
-public class App
+public class Server
 {
 
     static final int LOCAL_PORT = Integer.parseInt(System.getProperty("localPort", "8082"));
